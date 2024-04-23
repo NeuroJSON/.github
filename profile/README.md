@@ -18,7 +18,7 @@ You can read about
 NeuroJSON.io is an NIH-funded data dissemination service and we'd love to help you disseminate your data. Please consider contributing your data to our [data constellation](https://neurojson.io)! We are committed to supporting long term public data availability and reusability.
 
 - We prefer [BIDS data](https://bids-specification.readthedocs.io/en/stable/)! if you have raw or processed data that can be organized in the BIDS format, plese follow the [guides](https://bids-standard.github.io/bids-starter-kit/) to convert your data to the BIDS compliant format
-- Please download our [light-weight client tool, `neuroj`](https://github.com/NeuroJSON/neuroj), or it's [read-to-use docker image](https://hub.docker.com/repository/docker/openjdata/neuroj/general) (`docker pull openjdata/neuroj:v0.5`) and convert your dataset to JSON form
+- Please download our [light-weight client tool, `neuroj`](https://github.com/NeuroJSON/neuroj), or it's [read-to-use docker image]([https://hub.docker.com/repository/docker/openjdata/neuroj/general](https://hub.docker.com/r/openjdata/neuroj) (`docker pull openjdata/neuroj:v0.5`) and convert your dataset to JSON form
 - Please create a new ticket to upload your data to our database 
 
 ## Data archive admins
